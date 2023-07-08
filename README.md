@@ -14,14 +14,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 4 languages ( Bangla, English, Hindi, Spanish)
 
-</br>
-</br>
-<a href="https://iqbalhasan.dev" traget="blank">
-<center><span style="background:white;" >
-<img title="iqbalhasan.dev" src="image/logo.png" alt="HASIBUL HASAN"  style="background:white;"  >
-</span>
-</br>
-</br>
+<hr>
 
 [![](https://visitcount.itsvg.in/api?id=hasibul-af&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -43,7 +36,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://advarten.com)
 <hr/>
 <br>
 
-I am [**HASIBUL HASAN**](https://advarten.com). I am a student studying bsc in computer science & engineering. I love working on various technologies in addition to my studies. I love coding and programming. I am currently working on web development for the last 3 years. And in addition to freelancing, I am contributing to various open source projects. I currently have more than 3 job experiences
+I am [**HASIBUL HASAN**](https://advarten.com). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 <br/>
 <br/>
 
