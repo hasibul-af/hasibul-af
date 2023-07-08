@@ -1,6 +1,22 @@
+### Hey, I'm Arafat 👋
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="400" height="auto" />
+
+## I'm a Student, Web Developer, Video Creator, and Mentor!!
+
+
+- ✍ You can find my projects here [Portfolio](https://arafathussen.com)
+- 🔭 I’m currently working on my first book.
+- 🌱 I’m currently learning React Js
+- 👯 I’m looking to collaborate on open source
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( Bangla, English, Hindi, Spanish)
+
 </br>
 </br>
-<a href="https://iqbalhasan.dev" traget="_blank">
+<a href="https://iqbalhasan.dev" traget="blank">
 <center><span style="background:white;" >
 <img title="iqbalhasan.dev" src="image/logo.png" alt="HASIBUL HASAN"  style="background:white;"  >
 </span>
@@ -14,10 +30,7 @@
 
 # Hey There 👋
 
-I am [**HASIBUL HASAN**](https://advarten.com), self-taught,
-Laravel developer / Sr. Web App Developer from Bangladesh. I am specialized in Backend Development. My mission is to convert an idea into a real pixel-perfect application.
-
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 😁 Linux 😅 and I am a bit 😄 mad 😄 when I code.
+I am [**HASIBUL HASAN**](https://advarten.com), React Seveloper / Jr. Web Developer from Bangladesh. 
 
 Want to know more about me ? [**Check out my Portfolio.**](https://advarten.com)
 
@@ -34,7 +47,7 @@ I am [**HASIBUL HASAN**](https://advarten.com). I am a student studying bsc in c
 <br/>
 <br/>
 
-## 🌐 Socials:
+## 🌐 Find Me On Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasibul.af) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasibul.af) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hasibul-af) 
 
 ## 🛠  Technologies and tools
