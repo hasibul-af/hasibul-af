@@ -7,7 +7,7 @@
 </br>
 </br>
 
-![views](https://api.hasibul-af/api/visitor/count-and-svg)
+[![](https://visitcount.itsvg.in/api?id=hasibul-af&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </center>
 </a>
