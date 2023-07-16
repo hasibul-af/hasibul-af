@@ -41,8 +41,6 @@ I am [**HASIBUL HASAN**](https://advarten.com). Lorem Ipsum is simply dummy text
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hasibul-af) 
 
 
-## 📊 GitHub Stats:
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hasibul-af&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibul-af&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
