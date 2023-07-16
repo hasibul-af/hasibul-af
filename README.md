@@ -1,15 +1,15 @@
-## Hasibul Hasan 👋
+# Hasibul Hasan 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="400" height="auto" />
 
-## Learning Web Developer
+## Learning Web Development
 
 
 - ✍ You can find my projects here [Portfolio](https://advarten.com)
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Js
+- 🔭 I'm currently working on my Learning
+- 🌱 I’m currently learning HTML/CSS/JS/React
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for Learner
 - 💬 Ask me about ... Anything
 
 <hr>
@@ -21,11 +21,11 @@
 
 # Hey There 👋
 
-I am [**HASIBUL HASAN**](https://advarten.com), React Developer / Jr. Web Developer from Bangladesh. 
+I am [**HASIBUL HASAN**](https://advarten.com), Jr. Web Developer from Rajshahi, Bangladesh. 
 
 Want to know more about me ? [**Check out my Portfolio.**](https://advarten.com)
 
-- 📚 Currently I am focusing on [**React**]([https://react.dev](https://react.dev/)).
+- 📚 Currently I am focusing on [**Learner**](https://advarten.com).
 
 <br/>
 
@@ -45,6 +45,17 @@ I am [**HASIBUL HASAN**](https://advarten.com). Lorem Ipsum is simply dummy text
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul-af&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibul-af&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibul-af&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+---
