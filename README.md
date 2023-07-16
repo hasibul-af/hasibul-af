@@ -1,4 +1,4 @@
-# Hasibul Hasan 👋
+## Hey There 👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="400" height="auto" />
 
@@ -6,20 +6,19 @@
 
 
 - ✍ You can find my projects here [Portfolio](https://advarten.com)
-- 🔭 I'm currently working on my Learning
+- 🔭 I'm currently focusing on my Learning
 - 🌱 I’m currently learning HTML/CSS/JS/React
 - 👯 I’m looking to collaborate on open source
 - 🤔 I'm looking for Learner
 - 💬 Ask me about ... Anything
-
-<hr>
+- 💬 Ask me about ... Anything
 
 [![](https://visitcount.itsvg.in/api?id=hasibul-af&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </center>
 </a>
 
-# Hey There 👋
+### Disclaimer
 
 I am [**HASIBUL HASAN**](https://advarten.com), Jr. Web Developer from Rajshahi, Bangladesh. 
 
