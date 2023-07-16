@@ -30,7 +30,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://advarten.com)
 
 ## 🤔  About Me
 <br>
-<hr>
+
 I am [**HASIBUL HASAN**](https://advarten.com). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 <br/>
 <br/>
