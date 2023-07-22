@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="400" height="auto" />
 
-## Learning Web Development
+## I'M HASIBUL HASAN
 
 
 - ✍ You can find my projects here [Portfolio](https://advarten.com)
@@ -36,9 +36,9 @@ I am [**HASIBUL HASAN**](https://advarten.com). Lorem Ipsum is simply dummy text
 <br/>
 
 ## 🌐 Find Me On Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasibul.af) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasibul.af) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hasibul-af) 
+[![hasibul.af](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasibul.af) 
+[![hasibul.af](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasibul.af) 
+[![hasibul-af](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/hasibul-af) 
 
 ## 
 
