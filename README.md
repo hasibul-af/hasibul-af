@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arafathussendev/arafathussendev/main/images/coding.gif" width="400" height="auto" />
 
-## HASIBUL HASAN (Learning Web Development)
+## HASIBUL HASAN
+Learning Web Development
 
 
 - ✍ You can find my projects here [Portfolio](https://advarten.com)
