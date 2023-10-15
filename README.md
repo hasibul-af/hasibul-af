@@ -5,12 +5,11 @@
 ## I'M HASIBUL HASAN
 Learning Web Development
 
-
 - ✍ You can find my projects here [Portfolio](https://hasibul-af.com)
 - 🔭 I'm currently focusing on my Learning
 - 🌱 I’m currently learning HTML/CSS/JS/React
 - 👯 I’m looking to collaborate on open source
-- 🤔 I'm looking for Learner
+- 🤔 I'm looking for Learning.
 - 💬 Ask me about ... Anything
 
 [![](https://visitcount.itsvg.in/api?id=hasibul-af&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -56,7 +55,6 @@ I am [**HASIBUL HASAN**](https://hasibul-af.com). Lorem Ipsum is simply dummy te
 ## 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hasibul-af&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibul-af&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
